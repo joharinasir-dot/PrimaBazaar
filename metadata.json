@@ -1,0 +1,6 @@
+{
+  "name": "PrimaBazaar",
+  "description": "Pasar jual-beli rasmi krew & warga kerja Media Prima Berhad.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
